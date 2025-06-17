@@ -1,0 +1,129 @@
+QuadTree built in 44591 ms
+Sequential search: 1227 ms
+Actual threads: 3
+Parallel search: 420 ms
+Speedup(seq/par): 2.92143x
+500000 "search f" points
+1000000 узлов сети
+~2000000 треугольников
+
+
+
+QuadTree built in 24627 ms
+Sequential search: 557 ms
+Actual threads: 3
+Parallel search: 189 ms
+Speedup(seq/par): 2.94709x
+500000 "search f" points
+500000 узлов сети
+~1000000 треугольников
+
+
+QuadTree built in 24614 ms
+Sequential search: 268 ms
+Actual threads: 3
+Parallel search: 91 ms
+Speedup(seq/par): 2.94505x
+250000 "search f" points
+500000 узлов сети
+~1000000 треугольников
+
+
+QuadTree built in 44912 ms
+Sequential search: 1230 ms
+Actual threads: 6
+Parallel search: 226 ms
+Speedup(seq/par): 5.44248x	
+500000 "search f" points
+1000000 узлов сети
+~2000000 треугольников
+
+QuadTree built in 38710 ms
+Sequential search: 459 ms
+OpenMP enabled (Version: 200203)
+Actual threads: 4
+Parallel search: 127 ms
+Speedup: 3.61417x
+
+QuadTree built in 16256 ms
+Sequential search: 19 ms
+OpenMP enabled (Version: 200203)
+Actual threads: 6
+Parallel search: 4 ms
+Speedup: 4.75x
+Processed 1M points in 4 ms
+Throughput: 250000K points/sec
+250000 узлов
+10000 search points
+Processed 1M points in 127 ms
+Throughput: 7874.02K points/sec
+
+
+QuadTree built in 38877 ms
+Sequential search: 446 ms
+OpenMP enabled (Version: 200203)
+Actual threads: 6
+Parallel search: 81 ms
+Speedup: 5.50617x
+Processed 1M points in 81 ms
+Throughput: 12345.7K points/sec
+
+2 actual threads
+speedup 1.96x
+500000 узлов
+250000 search points
+
+QuadTree built in 38814 ms
+Sequential search: 465 ms
+OpenMP enabled (Version: 200203)
+Actual threads: 9
+Parallel search: 60 ms
+Speedup: 7.75x
+Processed 1M points in 60 ms
+Throughput: 16666.7K points/sec
+500000 узлов
+250000 search points
+
+QuadTree built in 16415 ms
+Sequential search: 184 ms
+OpenMP enabled (Version: 200203)
+Actual threads: 6
+Parallel search: 38 ms
+Speedup: 4.84211x
+Processed 1M points in 38 ms
+Throughput: 26315.8K points/sec
+250000 узлов
+100000 search points
+
+QuadTree built in 16207 ms
+Sequential search: 445 ms
+OpenMP enabled (Version: 200203)
+Actual threads: 6
+Parallel search: 99 ms
+Speedup: 4.49495x
+Processed 1M points in 99 ms
+Throughput: 10101K points/sec
+250000 узлов 
+250000 search points
+
+QuadTree built in 69565 ms
+Sequential search: 491 ms
+OpenMP enabled (Version: 200203)
+Actual threads: 6
+Parallel search: 102 ms
+Speedup: 4.81373x
+Processed 1M points in 102 ms
+Throughput: 9803.92K points/sec
+1000000 узлов
+2500000 search points
+
+QuadTree built in 4392 ms
+Sequential search: 194 ms
+OpenMP enabled (Version: 200203)
+Actual threads: 6
+Parallel search: 33 ms
+Speedup: 5.87879x
+Processed 1M points in 33 ms
+Throughput: 30303K points/sec
+100000 узлов
+200000 search points
